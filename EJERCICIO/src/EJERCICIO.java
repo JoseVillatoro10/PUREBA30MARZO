@@ -37,6 +37,11 @@ public class EJERCICIO {
         System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
         System.out.println("Telefono: 42252923");
         
+        
+        System.out.println("José Dagoberto Pérez Villatoro");
+        System.out.println("2da avenida b 9-20 zona 3 Huehuetenango");
+        System.out.println("32801288");
+        
     }
     
 }
